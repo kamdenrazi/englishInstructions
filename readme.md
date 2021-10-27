@@ -12,11 +12,12 @@ The website should look like this
 3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd>  
   (`cd` stands for 'Change Directory')
 
-4: Create the program using the `touch` command followed by the name of your file i.e. `touch app.py` <kbd>Enter</kbd>. **Be sure to include the `.py` file extension. This is declaring which programming language you will use (in this case, the language is Python).
+4: Create the program using the `touch` command followed by the name of your file i.e. `touch app.py` <kbd>Enter</kbd>.  
+***Be sure to include the `.py` file extension.*** This is declaring which programming language you will use (in this case, the language is Python).
 
 5: Enter the file using the command `vim` followed by the name of the file. i.e. `vim app.py` <kbd>Enter</kbd>
 
-6: You are now inside Vim, a modal text editing program. By default, you are in command mode. Press the <kbd>I</kbd> key to enter insert mode and the bottom of the window should say "-- INSERT --" to indicate that you have successfully entered insert mode.
+6: You are now inside Vim, a modal text editing program. By default, you are in command mode. Press the <kbd>i</kbd> key to enter insert mode and the bottom of the window should say "-- INSERT --" to indicate that you have successfully entered insert mode.
 
 7: Type the syntax `print(“`whatever you want to print`”)`. i.e. `print(“Hello World!”)`
 
