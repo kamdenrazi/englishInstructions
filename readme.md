@@ -6,11 +6,13 @@
 
 The website should look like this
 
-2: Make a folder by typing the command `mkdir` followed by the name of the folder, i.e. `mkdir Programs` <kbd>Enter</kbd> `mkdir` stands for 'Make Directory'
+2: Make a folder by typing the command `mkdir` followed by the name of the folder, i.e. `mkdir Programs` <kbd>Enter</kbd>  
+  (`mkdir` stands for 'Make Directory')
 
-3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd> `cd` stands for 'Change Directory'
+3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd>  
+  (`cd` stands for 'Change Directory')
 
-4: Create the program using the `touch` command followed by the name of your file i.e. `touch app.py` <kbd>Enter</kbd>. Be sure to include the `.py` file extension. This is declaring which programming language you will use (in this case, the language is Python).
+4: Create the program using the `touch` command followed by the name of your file i.e. `touch app.py` <kbd>Enter</kbd>. **Be sure to include the `.py` file extension. This is declaring which programming language you will use (in this case, the language is Python).
 
 5: Enter the file using the command `vim` followed by the name of the file. i.e. `vim app.py` <kbd>Enter</kbd>
 
