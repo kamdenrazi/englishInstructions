@@ -10,7 +10,7 @@ The website should look like this
   (`mkdir` stands for 'Make Directory')
 
 3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd>  
-  (`cd` stands for 'Change Directory')
+  (`cd` stands for 'Change Directory') Keep in mind, commands and folder/file names are case sensitive.
 
 4: Create the program using the `touch` command followed by the name of your file i.e. `touch app.py` <kbd>Enter</kbd>  
 ***Be sure to include the `.py` file extension.*** This is declaring which programming language you will use (in this case, the language is Python)
