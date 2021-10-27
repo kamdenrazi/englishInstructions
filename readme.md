@@ -16,8 +16,9 @@ Ensure the website looks like this
 
 7: You are now inside vim. Vim is a model text editing program. By default, you are in command mode. Press <kbd>i</kbd> to enter insert mode.
 
-8: Here you should see your cursor flashing at the top of the screen. To make your program print a word or phrase to the terminal, insert the syntax `print(“`whatever you want to print`”)`. i.e. `print(“ Hello World!”)`
+8: Here you should see your cursor flashing at the top of the screen. To make your program print a word or phrase to the terminal, insert the syntax `print(“`whatever you want to print`”)`. i.e. `print(“Hello World!”)`
 
+![image2](photos/image2.png)
 
 9: press the <kbd>esc</kbd> to enter command mode
 
@@ -26,7 +27,4 @@ Ensure the website looks like this
 11: To run your program, type into the terminal `python3` followed by the name of your app. i.e. `python3 app.py`
 
 12: The text you inserted between the “” should appear. 
-
-
-
 
