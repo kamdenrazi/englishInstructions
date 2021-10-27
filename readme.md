@@ -6,7 +6,7 @@
 
 The website should look like this
 
-2: Make a folder by typing the command `mkdir` followed by the name of the folder, followed by the <kbd>Enter</kbd> key i.e. `mkdir Programs` <kbd>Enter</kbd>
+2: Make a folder by typing the command `mkdir` followed by the name of the folder, i.e. `mkdir Programs` <kbd>Enter</kbd>
 
 3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd>
 
@@ -28,5 +28,5 @@ The website should look like this
 
 10: To run your program, type into the terminal `python3` followed by the name of your app. i.e. `python3 app.py` <kbd>Enter</kbd>
 
-11: The text you inserted between the “” should appear.
+11: The text you inserted between the “” should appear on the following line.
 ![Hello world](https://user-images.githubusercontent.com/66968736/139153432-bc95caba-02ea-42da-945a-f0550776b4f7.png)
