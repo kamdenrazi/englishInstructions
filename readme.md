@@ -16,8 +16,6 @@ The website should look like this
 
 6: You are now inside Vim, a modal text editing program. By default, you are in command mode. Press the <kbd>I</kbd> key to enter insert mode and the bottom of the window should say "-- INSERT --" to indicate that you have successfully entered insert mode.
 
-![Insert](https://user-images.githubusercontent.com/66968736/139152937-da3fb9bc-6c48-4310-9577-7a6b8bbb77fb.png)
-
 7: Type the syntax `print(“`whatever you want to print`”)`. i.e. `print(“Hello World!”)`
 
 ![insert Hello World](https://user-images.githubusercontent.com/66968736/139153771-743c10d6-3cf1-43ff-91ba-5edc5f21b894.png)
