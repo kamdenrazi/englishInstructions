@@ -6,9 +6,9 @@
 
 The website should look like this
 
-2: Make a folder by typing the command `mkdir` followed by the name of the folder, i.e. `mkdir Programs` <kbd>Enter</kbd>
+2: Make a folder by typing the command `mkdir` followed by the name of the folder, i.e. `mkdir Programs` <kbd>Enter</kbd> `mkdir` stands for 'Make Directory'
 
-3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd>
+3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd> `cd` stands for 'Change Directory'
 
 4: Create the program using the `touch` command followed by the name of your file i.e. `touch app.py` <kbd>Enter</kbd>. Be sure to include the `.py` file extension. This is declaring which programming language you will use (in this case, the language is Python).
 
@@ -22,7 +22,7 @@ The website should look like this
 
 8: Press the <kbd>ESC</kbd> key to switch back to command mode.
 
-9: The <kbd>:</kbd> key followed by a command will execute a command in Vim. Save and quit by typing `:wq` <kbd>Enter</kbd> `w` for 'write' and `q` for 'quit'.
+9: The `:` followed by a command will execute a command in Vim. Save and quit by typing `:wq` <kbd>Enter</kbd> `w` for 'write' and `q` for 'quit'.
 
 10: To run your program, type into the terminal `python3` followed by the name of your file, i.e. `python3 app.py` <kbd>Enter</kbd>
 
