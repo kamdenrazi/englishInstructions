@@ -2,7 +2,7 @@
 
 2: navigate to https://www.katacoda.com/embed/terminal
 
- ![image1](photos/image1)
+ ![image1](photos/image1.png)
 
 Ensure the website looks like this
 
