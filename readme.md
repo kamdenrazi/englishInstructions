@@ -4,10 +4,12 @@
 
 ![image1](photos/image1.png)
 
-The website should look like this.
+The website should look like this. We will be working in the terminal. There is no need to log in.
 
 2: Make a folder by typing the command `mkdir` followed by the name of the folder, i.e. `mkdir Programs` <kbd>Enter</kbd>  
   (`mkdir` stands for 'Make Directory').
+
+![example of mkdir](photos/image3.png)
 
 3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd>  
   (`cd` stands for 'Change Directory') Keep in mind, commands and folder/file names are case sensitive.
