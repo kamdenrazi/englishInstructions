@@ -27,8 +27,7 @@ The website should look like this. We will be working in the terminal. There is 
 
 8: Press the <kbd>ESC</kbd> key to switch back to command mode.
 
-9: The `:` followed by a command will execute a command in Vim. Save and quit by typing `:wq` <kbd>Enter</kbd> 
-(`w` for 'write' and `q` for 'quit').
+9: Save and quit by typing `:wq` <kbd>Enter</kbd> The `:` followed by a command will execute a command in Vim. `w` for 'write' and `q` for 'quit'.
 
 10: To run your program, type into the terminal `python3` followed by the name of your file, i.e. `python3 app.py` <kbd>Enter</kbd>.
 
