@@ -29,7 +29,10 @@ The website should look like this. You will be working in the terminal. There is
 
 9: Save and quit by typing `:wq` <kbd>Enter</kbd> The `:` followed by a command will execute a command in Vim. `w` for 'write' and `q` for 'quit'.
 
+![wq image](photos/imageWQ.png)
+
 10: To run your program, type into the terminal `python3` followed by the name of your file, i.e. `python3 app.py` <kbd>Enter</kbd>.
 
 11: The text you inserted between the “” should appear on the following line.
+
 ![Hello world](https://user-images.githubusercontent.com/66968736/139153432-bc95caba-02ea-42da-945a-f0550776b4f7.png)
