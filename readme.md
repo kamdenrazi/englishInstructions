@@ -27,7 +27,7 @@ The website should look like this. You will be working in the terminal. There is
 
 8: Press the <kbd>ESC</kbd> key to switch back to command mode.
 
-9: Save and quit by typing `:wq` <kbd>Enter</kbd> The `:` followed by a command will execute a command in Vim. `w` for 'write' and `q` for 'quit'.
+9: Save and quit by typing `:wq` <kbd>Enter</kbd>. This command should apear at the bottom of the window. The `:` followed by a command will execute a command in Vim. `w` for 'write' and `q` for 'quit'.
 
 ![wq image](photos/imageWQ.png)
 
