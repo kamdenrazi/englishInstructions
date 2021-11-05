@@ -14,7 +14,7 @@ The website should look like this. You will be working in the terminal. There is
 3: Navigate into the folder by typing `cd` then the name of your folder. i.e. `cd Programs` <kbd>Enter</kbd>  
   (`cd` stands for 'Change Directory') Keep in mind, commands and folder/file names are case sensitive.
 
-4: Create the program/application using the `touch` command followed by the name of your file i.e. `touch app.py` <kbd>Enter</kbd>  
+4: You are now in the folder you created. Create the program/application using the `touch` command followed by the name of your file i.e. `touch app.py` <kbd>Enter</kbd>  
 ***Be sure to include the `.py` file extension.*** This is declaring which programming language you will use (in this case, the language is Python).
 
 5: Enter the file using the command `vim` followed by the name of the file. i.e. `vim app.py` <kbd>Enter</kbd>.
