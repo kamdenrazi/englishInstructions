@@ -1,6 +1,6 @@
 # How to make a simple python program
 
-1: Navigate to https://www.katacoda.com/embed/terminal. This is a site that emulates a terminal environment.
+1: Open a new Tab and navigate to https://www.katacoda.com/embed/terminal or simply click on the hyperlink. This is a site that emulates a terminal environment.
 
 ![image1](photos/image1.png)
 
